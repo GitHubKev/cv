@@ -1,0 +1,31 @@
+body{
+  background-color: #7FFFD4;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+
+.pf_pic{
+  width: 200px;
+  height: 200px;
+}
+
+hr{
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 10px;
+}
+
+.work {
+  font-weight: bold;
+}
+
+h1,h2,h3{
+  color: blue;
+}
+
+a {color: red;}
+
+.tech_skills {
+  font-weight: bold;
+}
